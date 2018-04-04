@@ -23,7 +23,7 @@
 			DataLayer
 				PeopleCatAPIDAL
 		PeopleCAT.API.Online.Tests
-		    Controller
+			Controller
 			Manager
 			Helper
 			DataLayer
