@@ -4,6 +4,13 @@
 		Dependency Injection by AutoFac
 		OWIN Hosting
 		Attribute Routing
+# Folder Structure
+		Controller
+		Model
+		Manager
+		Interface
+		Helper
+		DataLayer
 
 
 Start the PeopleCAT.API.Online 
