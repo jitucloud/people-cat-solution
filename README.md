@@ -1,5 +1,11 @@
 # people-cat-solution
 
+# Highlights of solution and approach taken
+		Dependency Injection by AutoFac
+		OWIN Hosting
+		Attribute Routing
+
+
 Start the PeopleCAT.API.Online 
 
 Go to - http://localhost:61429/api/cats
