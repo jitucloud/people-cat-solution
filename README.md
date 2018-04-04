@@ -6,6 +6,7 @@
 		Attribute Routing
 		HTTPClient
 		Linq
+		Async Controller/Methods
 # Folder and Files Structure
 		PeopleCAT.API.Online
 			Controller
