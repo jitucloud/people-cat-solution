@@ -7,8 +7,8 @@
 # Folder and Files Structure
 		PeopleCAT.API.Online
 			Controller
-				CatController
-				PeopleController
+			    CatController
+			    PeopleController
 			Model
 			    Gender
 			    People
