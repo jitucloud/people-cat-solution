@@ -5,12 +5,13 @@
 		OWIN Hosting
 		Attribute Routing
 # Folder Structure
-		Controller
-		Model
-		Manager
-		Interface
-		Helper
-		DataLayer
+		PeopleCAT.API.Online
+			Controller
+			Model
+			Manager
+			Interface
+			Helper
+			DataLayer
 
 
 Start the PeopleCAT.API.Online 
