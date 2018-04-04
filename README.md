@@ -11,17 +11,17 @@
 				PeopleController
 			Model
 			    Gender
-				People
-				AnimalType
-				Pet
+			    People
+			    AnimalType
+			    Pet
 			Manager
-				CatManager
+			    CatManager
 			Interface
-				ICatManager
+		            ICatManager
 			Helper
-				ConfigManager
+			    ConfigManager
 			DataLayer
-				PeopleCatAPIDAL
+			    PeopleCatAPIDAL
 		PeopleCAT.API.Online.Tests
 			Controller
 			Manager
