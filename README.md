@@ -41,3 +41,5 @@ Expected Result:
 	"Male":["Garfield","Jim","Max","Tom"],
 	"Female":["Garfield","Simba","Tabby"]
 }
+
+Assumption: This endpoint can come under both cat or people and it depends on how we want to maintain it.
