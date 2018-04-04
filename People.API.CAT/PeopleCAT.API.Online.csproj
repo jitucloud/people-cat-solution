@@ -133,6 +133,7 @@
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\CatController.cs" />
+    <Compile Include="Controllers\PeopleController.cs" />
     <Compile Include="DataLayer\PeopleCatAPIDAL.cs" />
     <Compile Include="Helper\ConfigManager.cs" />
     <Compile Include="Interface\ICatManager.cs" />

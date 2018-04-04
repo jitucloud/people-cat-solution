@@ -4,12 +4,27 @@
 		Dependency Injection by AutoFac
 		OWIN Hosting
 		Attribute Routing
-# Folder Structure
+# Folder and Files Structure
 		PeopleCAT.API.Online
 			Controller
+				CatController
+				PeopleController
 			Model
+			    Gender
+				People
+				AnimalType
+				Pet
 			Manager
+				CatManager
 			Interface
+				ICatManager
+			Helper
+				ConfigManager
+			DataLayer
+				PeopleCatAPIDAL
+		PeopleCAT.API.Online.Tests
+		    Controller
+			Manager
 			Helper
 			DataLayer
 
