@@ -12,7 +12,7 @@ namespace PeopleCAT.API.Online.Controllers
 
     public class PeopleController : ApiController
     {
-      
+
         [Route("")]
         [HttpGet]
         public async Task<IHttpActionResult> GetAllPeople()
@@ -22,14 +22,14 @@ namespace PeopleCAT.API.Online.Controllers
             return Ok("all people string");
         }
 
-      
+
         [Route("{id:int}")]
         [HttpGet]
         public async Task<IHttpActionResult> GetPeopleByID(int id)
         {
 
             // Call People Manager to get individual people
-            return Ok("individual people string");
+            return Ok(string.Format("individual people string for id {0}", id.ToString()));
         }
     }
 }

@@ -42,4 +42,8 @@ Expected Result:
 	"Female":["Garfield","Simba","Tabby"]
 }
 
+Dummy endpoint: 
+	http://localhost:61429/api/peoples
+	http://localhost:61429/api/peoples/{id:int}
+
 Assumption: This endpoint can come under both cat or people and it depends on how we want to maintain it.

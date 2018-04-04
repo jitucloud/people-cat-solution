@@ -7,6 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 		README.md = README.md
+		Unit-Test-Result.PNG = Unit-Test-Result.PNG
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleCAT.API.Online", "PeopleAPI.CAT\PeopleCAT.API.Online.csproj", "{D3549B40-0E6C-42A9-85DE-C87B390A7B99}"
