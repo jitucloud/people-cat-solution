@@ -4,6 +4,8 @@
 		Dependency Injection by AutoFac
 		OWIN Hosting
 		Attribute Routing
+		HTTPClient
+		Linq
 # Folder and Files Structure
 		PeopleCAT.API.Online
 			Controller
